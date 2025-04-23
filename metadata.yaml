@@ -1,0 +1,38 @@
+_repo: Steppenwolf_75756
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Creighton, Basil
+    gutenberg_agent_id: '58129'
+    url: http://www.gutenberg.org/2009/agents/58129
+creator:
+  author:
+    agent_name: Hesse, Hermann
+    aliases:
+    - Lauscher, Hermann
+    - Sinclair, Emil
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '941'
+    url: http://www.gutenberg.org/2009/agents/941
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hermann_Hesse
+    - https://en.wikipedia.org/wiki/Hermann_Hesse
+description: ''
+gutenberg_issued: '2025-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75756'
+language: en
+pgterms:marc905: 20240127124707hesse
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNew York :$bHenry Holt and Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Steppenwolf
+url: http://www.gutenberg.org/ebooks/75756
