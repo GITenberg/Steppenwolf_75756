@@ -5,6 +5,9 @@ contributor:
     agent_name: Creighton, Basil
     gutenberg_agent_id: '58129'
     url: http://www.gutenberg.org/2009/agents/58129
+covers:
+- cover_type: archival
+  image_path: 75756-h/images/cover.jpg
 creator:
   author:
     agent_name: Hesse, Hermann
@@ -19,6 +22,8 @@ creator:
     - https://de.wikipedia.org/wiki/Hermann_Hesse
     - https://en.wikipedia.org/wiki/Hermann_Hesse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75756#Steppenwolf
 gutenberg_issued: '2025-03-30'
 gutenberg_type: Text
 identifiers:
